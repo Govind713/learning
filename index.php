@@ -1,6 +1,6 @@
 <?php include_once("includes/header.php"); ?>
 
-<section id="hmPortfolio" data-aos="fade-up">
+ <section id="hmPortfolio" data-aos="fade-up"> <!--hahah -->
     <div class="container">
         <h4 class="commonhead textwhite">Specialities</h4>
         <div class="portfolioTab">
